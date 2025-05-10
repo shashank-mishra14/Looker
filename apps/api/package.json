@@ -10,9 +10,13 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "@types/cors": "^2.8.18",
     "@types/express": "^5.0.1",
+    "@types/jsonwebtoken": "^9.0.9",
+    "cors": "^2.8.5",
+    "db": "*",
     "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "db":"*"
+    "jsonwebtoken": "^9.0.2"
   }
 }
